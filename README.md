@@ -1,2 +1,2 @@
 # mbagolor.github.io
-[view site](https://mbagolor.github.io)
+[view portfolio](https://mbagolor.github.io)
